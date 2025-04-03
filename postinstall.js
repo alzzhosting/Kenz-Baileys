@@ -1,0 +1,1 @@
+console.log("\n\x1b[32mTerima Kasih Telah Menggunakan Baileys Kenz!\x1b[0m\n");
